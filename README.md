@@ -1,2 +1,2 @@
-# Интерпретатор математических выражений с поддержкой переменных
-Выполняет действия сложения, вычитания, умножения, деления, поддерживает числовые константы и именованные переменные, а также скобки
+# Interpreter of mathematical expressions with variable support
+Performs addition, subtraction, multiplication, division, supports numeric constants and named variables, as well as brackets
